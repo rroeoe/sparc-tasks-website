@@ -2,7 +2,7 @@ import react from "react"
 import { theme } from "./services/theme"
 import TaskList from "./pages/TaskList"
 import { ThemeProvider } from "@emotion/react";
-import "./app.css"
+import "./App.css"
 
 
 function App() {
