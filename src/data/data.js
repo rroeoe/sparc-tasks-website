@@ -2,7 +2,9 @@ export const data = [{
   "workingStream": "Admin",
   "tasks": [
     "SPARC-2681 - Weekly TIE International", 
-    "SPARC-2429 - A.2.1.4 Synchronisation mit Auftraggeberschaft (bi-weekly) PI 4"
+    "SPARC-2429 - A.2.1.4 Synchronisation mit Auftraggeberschaft (bi-weekly) PI 4",
+    "SPARC-2670 - Pre-Planning Preperation Tie International",
+    "SPARC-2671 - Roadmap Task Creation & Analysis"
   ]
 },
 {
@@ -11,7 +13,8 @@ export const data = [{
     "SPARC-2366 - C.3.7 - Windows Engineering Basics (16 h)",
     "SPARC-2663 - Weiterentwicklung Network Engineering Basics",
     "SPARC-2706 - Linux Engineering Basics - Labs",
-    "SPARC-2733 - Programming Basics in Python - Labs Cleanup"
+    "SPARC-2733 - Programming Basics in Python - Labs Cleanup",
+    "asdf"
   ]
 },
 {
