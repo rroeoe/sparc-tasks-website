@@ -14,7 +14,6 @@ export const data = [{
     "SPARC-2663 - Weiterentwicklung Network Engineering Basics",
     "SPARC-2706 - Linux Engineering Basics - Labs",
     "SPARC-2733 - Programming Basics in Python - Labs Cleanup",
-    "asdf"
   ]
 },
 {
