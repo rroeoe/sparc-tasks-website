@@ -7,7 +7,10 @@ export const data = [
       "SPARC-2753 - August Weekly TIE",
       "SPARC-2754 - September Weekly TIE",
       "SPARC-2755 - Oktober Weekly TIE",
-      "SPARC-2791 - Reisezeit PI 4 TIE International"
+      "SPARC-2791 - Reisezeit PI 4 TIE International",
+      "SPARC-2744 - August Bi Weekly Team Meeting",
+      "SPARC-2745 - September BI Weekly Team Meeting",
+      "SPARC-2746 - October BI Weekly Team Meeting"
     ]
   },
   {
