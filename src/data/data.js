@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     "workingStream": "Admin",
     "tasks": [
