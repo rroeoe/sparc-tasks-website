@@ -42,8 +42,7 @@ export const data = [
       "SPARC-2707 - Vorbereitung CONNECTED",
       "SPARC-2712 - Auf- und Abbau CONNECTED - TIE",
       "SPARC-2710 - Nachbearbeitung CONNECTED - TIE",
-      "SPARC-2712 - Auf- und Abbau CONNECTED - TIE",
-      "SPARC-2710 - Nachbearbeitung CONNECTED - TIE",
+      "SPARC-2708 - Durchführung CONNECTED - TIE",
       "SPARC-2795 - Organisation erster Erlebnistag 2023"
     ]
   },
