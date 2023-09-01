@@ -25,18 +25,15 @@ function TaskList() {
           <Typography variant="h4" style={{ paddingBottom: "15px" }}>{item.workingStream}</Typography>
           <Grid container spacing={2}>
             {item.tasks.map((task, idx) => (
-              <Grid item xs={12} md={12} lg={12} key={idx}>
-                <Paper sx={{ p: 1 }} color="primary" style={{ width: "40%" }}>
-                  <Typography variant="body2" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-
-                    <span>{task}</span>
-
+              <Grid item xs={12} md={12} lg={7} key={idx}>
+                <Paper sx={{ p: 1 }} color="primary">
+                  <Typography variant="body2" >
                     <Tooltip title="Click to copy" arrow>
-                      <IconButton color="primary" size="small" sx={{ mr: 1 }} onClick={() => copyToClipboard(task)}>
+                      <IconButton color="primary" size="medium" sx={{ mr: 1 }} onClick={() => copyToClipboard(task)}>
                         <FileCopyIcon />
                       </IconButton>
                     </Tooltip>
-
+                    <span>{task}</span>
                   </Typography>
                 </Paper>
               </Grid>
