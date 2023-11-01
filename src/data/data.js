@@ -1,6 +1,6 @@
 export const data = [
   {
-    "workingStream": "Admin",
+    "workingStream": "Admin (SPARC)",
     "tasks": [
       "SPARC-2893 - TIE Reisezeit PI5",
       "SPARC-2902 - Weekly TIE International",
