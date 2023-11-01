@@ -1,63 +1,56 @@
 export const data = [
   {
-    "workingStream": "Content EDU (SPARC)",
+    "workingStream": "Admin",
     "tasks": [
-      "SPARC-2706 Linux Engineering Basics - Labs",
-      "SPARC-2726 Create Overview for Lab Units",
-      "SPARC-2727 Create Skeleton for the Linux Hands-On Lab(s)",
-      "SPARC-2802 Create Snapshots for VMs",
-      "SPARC-2803 Create the Objectives for the Labs",
-      "SPARC-2733 Programming Basics in Python - Labs Cleanup"
+      "SPARC-2893 - TIE Reisezeit PI5",
+      "SPARC-2902 - Weekly TIE International",
+      "SPARC-2905 - November Weekly TIE",
+      "SPARC-2904 - December Weekly TIE",
+      "SPARC-2928 - TIE Steering Meeting PI 5"
     ]
   },
   {
-    "workingStream": "Membership Management (SPARC)",
+    "workingStream": "Content EDU",
     "tasks": [
-      "SPARC-2662 Newsletter Tool Rampup",
-      "SPARC-2736 August 1st Level TIE",
-      "SPARC-2762 Aug - Vacy Comm",
-      "SPARC-2757 Oktober 1st Level TIE",
-      "SPARC-2759 Oktober 2nd Level TIE",
-      "SPARC-2763 Sep - Vacy Comm",
-      "SPARC-2758 September Support",
-      "SPARC-2590 Betreuungs- und Supportkonzept erstellen"
+      "SPARC-2889 - Content Module 2",
+      "SPARC-2890 - Content Module 3",
+      "SPARC-2891 - Content Module 4",
+      "SPARC-2892 - Content Module 5",
+      "SPARC-2926 - Aufsetzen Sandbox"
     ]
   },
   {
-    "workingStream": "Admin (SPARC)",
+    "workingStream": "Event Organisation",
     "tasks": [
-      "SPARC-2700 Kommunikative Grundlagen",
-      "SPARC-2737 August 2nd Level TIE",
-      "SPARC-2753 August Weekly TIE",
-      "SPARC-2791 Reisezeit PI 4 TIE International",
-      "SPARC-2744 August Bi Weekly Team Meeting",
-      "SPARC-2750 August Sprint Review",
-      "SPARC-2670 Pre-Planning Preperation Tie International",
-      "SPARC-2754 September Weekly TIE",
-      "SPARC-2755 Oktober Weekly TIE"
+      "SPARC-2860 - Grobplanung Erlebnistage 2024",
+      "SPARC-2923 - Org. Erlebnistage Q1 2024 November",
+      "SPARC-2924 - Org. Erlebnistage Q1 2024 December",
+      "SPARC-2862 - Durchführung Erlebnistag 02.12.2023 in Zürich - TIE",
+      "SPARC-2863 - Vorbereitungen Erlebnistag 02.12.2023 in Zürich - TIE",
+      "SPARC-2864 - Briefing Erlebnistag 02.12.2023 in Zürich - TIE",
+      "SPARC-2871 - Nachbearbeitung Erlebnistag 02.12.2023 in Zürich - TIE",
+      "SPARC-2879 - Modul Build a Private Network testen",
+      "SPARC-2897 - Grobplanung Onboarding Session 2024"
     ]
   },
   {
-    "workingStream": "Event Organisation (SPARC)",
+    "workingStream": "Membership Management",
     "tasks": [
-      "SPARC-2665 Erlebnistage T-Shirts & Hoodies",
-      "SPARC-2660 Erlebnistage Planung FirstTrial Event",
-      "SPARC-2707 Vorbereitung CONNECTED",
-      "SPARC-2708 Durchführung CONNECTED - TIE",
-      "SPARC-2712 Auf- und Abbau CONNECTED - TIE",
-      "SPARC-2657 Erlebnistage Module x1 Collaborate \"Build a Firewall and Routing\"",
-      "SPARC-2710 Nachbearbeitung CONNECTED - TIE"
+      "SPARC-2880 - Evaluation und Testversuche Plattform Erklärvideos",
+      "SPARC-2884 - November VACy Comm",
+      "SPARC-2885 - December VACy Comm",
+      "SPARC-2887 - Support November",
+      "SPARC-2888 - Support December",
+      "SPARC-2872 - Weiterentwicklung Website"
     ]
   },
   {
-    "workingStream": "Public Relations (SPARC)",
+    "workingStream": "Public Relations",
     "tasks": [
-      "SPARC-2788 August Website überarbeitung",
-      "SPARC-2791 Reisezeit PI 4 TIE International",
-      "SPARC-2703 Paid Ads",
-      "SPARC-2789 September Website überarbeitung",
-      "SPARC-2705 Social Media Set-Up",
-      "SPARC-2790 Oktober Website überarbeitung"
+      "SPARC-2713 - PR.3.2 - Zusammenarbeit ChanceArmee",
+      "SPARC-2894 - Newsletter Tool Rampup",
+      "SPARC-2895 - Paid Ads",
+      "SPARC-2896 - Social Media Setup"
     ]
   }
 ]
