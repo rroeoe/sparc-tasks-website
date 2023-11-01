@@ -10,7 +10,7 @@ export const data = [
     ]
   },
   {
-    "workingStream": "Content EDU",
+    "workingStream": "Content EDU (SPARC)",
     "tasks": [
       "SPARC-2889 - Content Module 2",
       "SPARC-2890 - Content Module 3",
@@ -20,7 +20,7 @@ export const data = [
     ]
   },
   {
-    "workingStream": "Event Organisation",
+    "workingStream": "Event Organisation (SPARC)",
     "tasks": [
       "SPARC-2860 - Grobplanung Erlebnistage 2024",
       "SPARC-2923 - Org. Erlebnistage Q1 2024 November",
@@ -34,7 +34,7 @@ export const data = [
     ]
   },
   {
-    "workingStream": "Membership Management",
+    "workingStream": "Membership Management (SPARC)",
     "tasks": [
       "SPARC-2880 - Evaluation und Testversuche Plattform Erklärvideos",
       "SPARC-2884 - November VACy Comm",
@@ -45,7 +45,7 @@ export const data = [
     ]
   },
   {
-    "workingStream": "Public Relations",
+    "workingStream": "Public Relations (SPARC)",
     "tasks": [
       "SPARC-2713 - PR.3.2 - Zusammenarbeit ChanceArmee",
       "SPARC-2894 - Newsletter Tool Rampup",
